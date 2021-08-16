@@ -1,0 +1,18 @@
+* {
+  margin-left: 0px;
+  text-align: center;
+}
+
+body {
+  background-color: wheat;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.bacon {
+  background-color: black;
+  border: 10px solid;
+  border-radius: 100px;
+}
